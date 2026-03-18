@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/programma.dir/link.d CMakeFiles/programma.dir/temperature_medie.cpp.o -o programma
