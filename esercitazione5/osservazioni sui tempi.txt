@@ -1,0 +1,6 @@
+Finchè lavoro con vettori con dimensione massima 60 circa, gli algoritmi quadratici risultano più veloci di quelli logaritmici, in particolare l'insertion sort. 
+
+Questo accade perché merge sort e quick sort sono algoritmi ricorsivi che impiegano quindi tempo aggiuntivo per allocare in memoria. 
+Questa differenza di secondi si nota soprattutto quando stiamo lavorando su vettori piccoli, per cui il tempo di ordinamento dei dati è ridotto e quindi algoritmi quadratici posso battere algoritmi ricorsivi.
+
+La funzione standard sort() è generalmente tra le più veloci, ma spesso non la più veloce

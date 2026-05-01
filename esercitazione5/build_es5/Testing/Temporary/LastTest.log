@@ -1,0 +1,37 @@
+Start testing: May 01 07:11 UTC
+----------------------------------------------------------
+1/2 Testing: mergesort
+1/2 Test: mergesort
+Command: "/home/pcsdocker/Data/esercitazioni-PCS-2026/esercitazione5/build_es5/test_mergesort"
+Directory: /home/pcsdocker/Data/esercitazioni-PCS-2026/esercitazione5/build_es5
+"mergesort" start time: May 01 07:11 UTC
+Output:
+----------------------------------------------------------
+Francesco Gaia Maria alice eleonora filippo francesca giuseppe luigi maria 
+test di ordinamento riuscito
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"mergesort" end time: May 01 07:11 UTC
+"mergesort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: quicksort
+2/2 Test: quicksort
+Command: "/home/pcsdocker/Data/esercitazioni-PCS-2026/esercitazione5/build_es5/test_quicksort"
+Directory: /home/pcsdocker/Data/esercitazioni-PCS-2026/esercitazione5/build_es5
+"quicksort" start time: May 01 07:11 UTC
+Output:
+----------------------------------------------------------
+Francesco Gaia Maria alice eleonora filippo francesca giuseppe luigi maria 
+test di ordinamento riuscito
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"quicksort" end time: May 01 07:11 UTC
+"quicksort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 01 07:11 UTC

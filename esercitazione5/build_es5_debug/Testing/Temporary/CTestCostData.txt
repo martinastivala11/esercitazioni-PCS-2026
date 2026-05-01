@@ -1,0 +1,3 @@
+mergesort 1 0.110023
+quicksort 1 0.061857
+---
